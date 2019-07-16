@@ -4,6 +4,10 @@ Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - C
 
 Ciência da Computação
 
-Maquina de Turing e Calculadora para a disciplina de Teoria da Computação
+Jogo Ping Pong para dois jogadores extremamente simples.
 
-Autores: Luiz Eduardo Pereira.
+Autor: Luiz Eduardo Pereira.
+
+# Execução:
+
+Janela.java
